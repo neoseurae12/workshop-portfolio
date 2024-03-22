@@ -6,13 +6,13 @@
     },
     {
       "title": "All Ears",
-      "description": "{{project-description}}",
-      "url": "{{project-url}}"
+      "description": "a WearOS app that provides real-time Voice-Noise Ratio Visualization, Live Captioning, and Past Captioning Rewatch for kids with hearing impairment. Checkout my YouTube Demo Link https://www.youtube.com/watch?v=8hec7ohdeOA",
+      "url": "https://github.com/TeamAllways-AllEars/All-Ears_Android"
     },
     {
-      "title": "GDSC Ewha Android Lead",
-      "description": "{{project-description}}",
-      "url": "{{project-url}}"
+      "title": "GDSC Ewha Android Core Member",
+      "description": "responsible for education sessions on Kotlin and Android for Android part members in GDSC",
+      "url": "https://www.youtube.com/@dev.neoseurae/videos"
     },
     {
       "title": "Young N Rich",
