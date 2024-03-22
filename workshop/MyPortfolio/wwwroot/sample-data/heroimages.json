@@ -1,0 +1,17 @@
+[
+    {
+      "name": "home",
+      "src": "images/myBestProfile.jpeg",
+      "alt": "Wonhui Roh in Space Needle, Seattle"
+    },
+    {
+      "name": "about",
+      "src": "images/motion-background.jpg",
+      "alt": "gray abstract background"
+    },
+    {
+        "name": "portfolio",
+        "src": "images/design-desk.jpeg",
+        "alt": "desktop with books and laptop"
+    }
+]

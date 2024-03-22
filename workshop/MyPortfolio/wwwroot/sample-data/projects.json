@@ -1,0 +1,22 @@
+[
+    {
+      "title": "Goosukki",
+      "description": "a Location-based SNS Android application using 3D AR technology",
+      "url": "https://github.com/EwhaARchive/2023-goosukki"
+    },
+    {
+      "title": "All Ears",
+      "description": "{{project-description}}",
+      "url": "{{project-url}}"
+    },
+    {
+      "title": "GDSC Ewha Android Lead",
+      "description": "{{project-description}}",
+      "url": "{{project-url}}"
+    },
+    {
+      "title": "Young N Rich",
+      "description": "{{project-description}}",
+      "url": "{{project-url}}"
+    }
+]
